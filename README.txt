@@ -9,3 +9,4 @@ URL pour tester les WS REST Controller :
 	+ Affiche une formation par id:	http://localhost:8080/trainings/id
 
 			
+ 
