@@ -6,7 +6,7 @@ URL pour tester les WS REST Controller :
 	+ Affiche un étudiant par id:	http://localhost:8080/students/id
 	
 	+ Liste des formations:		http://localhost:8080/trainings
-	+ Affiche une formation par id:	http://localhost:8080/trainings/id
+	+ Affiche une formation par id:	http://localhost:8080/trainings/id  
 
 			
  
